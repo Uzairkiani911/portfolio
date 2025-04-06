@@ -30,6 +30,10 @@ section{
     line-height: 200px;
 }
 
+.click{
+    color: aqua;
+}
+
 .img{
     width: 200px;
     height: 200px;
