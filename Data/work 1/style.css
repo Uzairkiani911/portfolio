@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(6, 28, 4);
+}
+
+#WEL{
+    color: rgb(228, 237, 215);
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#hding{
+    color: rgb(238, 225, 254);
+}
+
+.textcol{
+    color: rgb(238, 225, 254);
+}
+
+#tooth{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 9px;
+    height: 250px;
+}
+
+#video{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 9px;
+    height: 250px;
+}
+  
