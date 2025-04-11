@@ -1,12 +1,12 @@
 body{
-    background-color: #404040;
+    background-color: #1e3231;
     font-family: Arial, sans-serif;
 }
 
 header{
     text-align: center;
     padding: 10px;
-    background-color: #ffffff28;
+    background-color: #232d39;
 }
 
 header img{
@@ -44,18 +44,18 @@ h1, h2, p {
 }
 
 #bio{
-    background-color: #ffffff28;
+    background-color: #2c392a;
     padding: 15px;
 }
 
 #work{
-    background-color: #ffffff28;
+    background-color: #2c392a;
     padding: 15px;
 }
 
 
 footer{
-    background-color: #ffffff28;
+    background-color: #232d39;
     text-align: center;
     padding: 10px;
 }
